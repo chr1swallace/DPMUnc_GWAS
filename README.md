@@ -1,4 +1,13 @@
 # Setup
+Scripts used to perform analysis of GWAS data in the manuscript
+Bayesian clustering with uncertain data
+Kath Nicholls,  Paul D W Kirk,  Chris Wallace
+doi: https://doi.org/10.1101/2022.12.07.519476
+
+The scripts were run on the university of Cambridge HPC https://www.hpc.cam.ac.uk/ using
+R 4.2.0
+Python 3.11.0
+snakemake 7.19.1
 
 Conda environment on HPC - contains all the necessary plotting packages
 
