@@ -1,8 +1,8 @@
 # Setup
 Scripts used to perform analysis of GWAS data in the manuscript
-Bayesian clustering with uncertain data
-Kath Nicholls,  Paul D W Kirk,  Chris Wallace
-doi: https://doi.org/10.1101/2022.12.07.519476
+> Bayesian clustering with uncertain data
+> Kath Nicholls,  Paul D W Kirk,  Chris Wallace
+> doi: https://doi.org/10.1101/2022.12.07.519476
 
 The scripts were run on the university of Cambridge HPC https://www.hpc.cam.ac.uk/ using
 R 4.2.0
